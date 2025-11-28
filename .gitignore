@@ -7,3 +7,4 @@ models/
 ml_venv/
 others/
 data/*.csv
+catboost_info/
