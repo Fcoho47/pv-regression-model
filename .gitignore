@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+models/
+ml_venv/
+others/
+data/*.csv
